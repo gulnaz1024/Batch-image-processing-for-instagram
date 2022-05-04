@@ -13,6 +13,7 @@ This program does the following:
 - Adds to all images a watermark at right bottom corner
 
 Photos for correction should be placed in the "images" folder
+
 The program will put the edited photos to the "edited_images" folder
 
 
